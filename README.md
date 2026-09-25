@@ -1,123 +1,270 @@
-# ⚡ ShivendraNova
+<!-- ═══════════════════════════════════════════════════════════════
+     SHIVENDRANOVA — PREMIUM ANIME / 3D PROFILE README
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=ShivendraNova&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Anime themed header" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B8CFF&center=true&vCenter=true&width=760&lines=Anime+%7C+Android+%7C+Web+%7C+APIs+%7C+Automation;Building+apps+with+a+cyberpunk+anime+vibe;Code%2C+create%2C+experiment%2C+ship." alt="Typing animation" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SHIVENDRANOVA&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=ANIME%20%7C%20ANDROID%20%7C%20WEB%20%7C%20AI%20%7C%20AUTOMATION&descAlignY=57&descSize=18&color=0:05010d,25:130b2e,55:302060,80:711c73,100:090014"/>
 
-<p align="center">
-  <a href="https://github.com/ShivendraNova">
-    <img src="https://img.shields.io/github/followers/ShivendraNova?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/ShivendraNova?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ShivendraNova?style=for-the-badge&logo=github&label=Profile%20Stars" alt="GitHub profile stars" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2600&pause=700&color=C9A7FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+SYSTEM+ONLINE+%E2%80%94+WELCOME+TO+MY+WORLD;%F0%9F%8C%8C+BUILDING+ANIME-INSPIRED+DIGITAL+EXPERIENCES;%F0%9F%94%A5+ANDROID+%7C+WEB+%7C+APIs+%7C+AUTOMATION;%F0%9F%8E%AE+CODE+IS+THE+POWER+SYSTEM" alt="Animated introduction"/>
 
-## 🌌 Anime Core
+<br/>
 
-> 「コードは武器。想像力は力。」
-> **Code is the weapon. Imagination is the power.**
+<img src="https://komarev.com/ghpvc/?username=ShivendraNova&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ShivendraNova?style=for-the-badge&logo=github&label=FOLLOWERS&color=5b21b6" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/ShivendraNova?style=for-the-badge&logo=github&label=TOTAL+STARS&color=7e22ce" alt="Stars"/>
 
-I build and experiment with **Android apps, web apps, APIs, automation tools, and anime-inspired experiences**.
-
-### 🗡️ Current Character Arc
-
-- 📱 Android / Kotlin / Firebase
-- 🌐 Web apps, APIs & backend systems
-- ⚙️ Automation, scripting & developer tools
-- 🎨 Anime-inspired UI/UX and cyberpunk interfaces
-- 🧩 Reverse engineering and debugging for legitimate development/learning
-- ☁️ Vercel deployments and modern web stacks
+</div>
 
 ---
 
-## 🌸 Anime Items
+# 🌌 `NOVA // CHARACTER PROFILE`
 
-### 🎴 Favorite Themes
-`Cyberpunk` `Shonen` `Dark Fantasy` `Mecha` `Slice of Life` `Action`
+<table>
+<tr>
+<td width="58%">
 
-### ⚔️ Character Energy
-- 🥷 **Shinobi Mode** — debugging & problem solving
-- ⚡ **Thunder Mode** — rapid prototyping
-- 🔥 **Rage Mode** — hard bugs and broken builds
-- 🌙 **Night Mode** — late-night coding
-- 🌌 **Final Form** — polished production releases
+### 🧬 Identity
 
----
+```yaml
+name: ShivendraNova
+class: Full-Stack Creator
+theme: Anime / Cyberpunk / 3D
+mode: BUILDING
+alignment: Creative Engineering
+current_arc: Next Generation Apps
+```
 
-## 🚀 Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,js,ts,nodejs,react,nextjs,html,css,firebase,git,github,vercel,linux&perline=8" alt="Technology icons" />
-</p>
-
----
-
-## 🍥 Anime-Inspired Projects
-
-| Project | Theme | Stack |
-|---|---|---|
-| 💬 **TNC Chat** | Anime/cyberpunk messaging UI | Android • Kotlin • Firebase |
-| 🌸 **Anime Web Experience** | Streaming-style anime interface | Web • APIs • Vercel |
-| 🛠️ **RepoDoctor** | Developer tooling | Automation • GitHub |
-| 🖥️ **MC Server Localhost** | Server tooling | Java • Linux |
-
----
-
-## 🧪 What I'm Exploring
+### ⚔️ Skill Tree
 
 ```text
-Android Engineering     ████████████████████
-Web Development         ██████████████████░░
-Backend / APIs          █████████████████░░░
-Automation              ██████████████████░░
-UI / UX                 ███████████████░░░░░
-Anime Creative Tech     ████████████████████
+ANDROID        ████████████████████  100%
+WEB            ███████████████████░  95%
+BACKEND        ██████████████████░░  90%
+AUTOMATION     ██████████████████░░  90%
+UI / UX        █████████████████░░░  85%
+AI / APIs      ████████████████░░░░  80%
+```
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/168098738?v=4" width="220" style="border-radius:50%" alt="ShivendraNova avatar"/>
+
+<br/><br/>
+
+**「想像力は力。」**  
+*Imagination is power.*
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧊 3D DIGITAL WORLD
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=8b5cf6"/>
+
+### ◈ `NOVA CORE`
+
+| 🧠 CORE | ⚡ POWER | 🌐 DOMAIN |
+|:---:|:---:|:---:|
+| Kotlin | Android | Mobile |
+| Python | Automation | Tools |
+| TypeScript | React / Next.js | Web |
+| Node.js | APIs | Backend |
+| Firebase | Cloud | Apps |
+| GitHub | CI / Dev | Open Source |
+| Vercel | Deployments | Web |
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,python,js,ts,nodejs,react,nextjs,html,css,firebase,git,github,vercel,linux&perline=8" alt="Tech stack"/>
+
+</div>
+
+---
+
+# 🎴 ANIME CHARACTER SYSTEM
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🥷
+**SHINOBI**
+
+`DEBUG MODE`
+
+Stealth debugging  
+Fast problem solving
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+**RAIJIN**
+
+`SPEED MODE`
+
+Rapid prototypes  
+Automation systems
+
+</td>
+<td align="center" width="25%">
+
+### 🔥
+**KAIEN**
+
+`BOSS MODE`
+
+Hard bugs  
+Deep engineering
+
+</td>
+<td align="center" width="25%">
+
+### 🌙
+**TSUKI**
+
+`NIGHT MODE`
+
+UI design  
+Creative experiments
+
+</td>
+</tr>
+</table>
+
+> **Character progression:** `NOVICE → BUILDER → ENGINEER → ARCHITECT → FINAL FORM`
+
+---
+
+# 🚀 ACTIVE PROJECT UNIVERSE
+
+<div align="center">
+
+| Project | Type | Status |
+|---|---|---|
+| 💬 **TNC Chat** | Android Messaging Platform | ⚡ Building |
+| 🌸 **Anime Web Experience** | Anime-style Web App | 🔧 Developing |
+| 🛠️ **RepoDoctor** | Developer Tooling | 🧪 Exploring |
+| 🖥️ **MC Server Localhost** | Server Tooling | 🔩 Active |
+
+</div>
+
+### 💬 TNC CHAT — `NEXT-GEN MESSAGING`
+
+```text
+┌──────────────────────────────────────────────────────┐
+│  ◈ TNC CHAT                                         │
+│                                                      │
+│  Real-time messaging     ████████████████████       │
+│  Firebase backend        ███████████████████░       │
+│  Authentication          ████████████████████       │
+│  Media / files            █████████████████░░       │
+│  Premium UI               ███████████████████░       │
+│  Security                 █████████████████░░       │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🎨 GitHub Anime HUD
+# 🎮 CURRENT LOADOUT
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivendraNova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&icon_color=FF79C6&text_color=E6EDF3" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivendraNova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B8CFF&text_color=E6EDF3" alt="Top languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivendraNova&theme=tokyonight&hide_border=true&background=0D1117&ring=9B8CFF&fire=FF79C6&currStreakLabel=9B8CFF" alt="GitHub streak" />
-</p>
+`KOTLIN` • `PYTHON` • `TYPESCRIPT` • `JAVASCRIPT` • `REACT` • `NEXT.JS`  
+`NODE.JS` • `FIREBASE` • `GIT` • `LINUX` • `VERCEL` • `REST APIs`
+
+</div>
 
 ---
 
-## 🌙 Contribution Night
+# 📊 3D-STYLE GITHUB HUD
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivendraNova&bg_color=0D1117&color=9B8CFF&line=FF79C6&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=ShivendraNova&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C9A7FF&icon_color=FF79C6&text_color=E6EDF3" height="180" alt="GitHub statistics"/>
 
-## 📡 Find Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivendraNova&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=C9A7FF&text_color=E6EDF3" height="180" alt="Top languages"/>
 
-<p align="center">
-  <a href="https://github.com/ShivendraNova">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ShivendraNova&theme=tokyonight&hide_border=true&background=0D1117&ring=C9A7FF&fire=FF79C6&currStreakLabel=C9A7FF" alt="GitHub streak"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <b>🌸 Build your world. Debug your demons. Ship your final form. 🌸</b>
-</p>
+# 🌌 CONTRIBUTION DIMENSION
 
-<p align="center">
-  <sub>Anime aesthetic • Developer mindset • Continuous learning</sub>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivendraNova&bg_color=0D1117&color=C9A7FF&line=FF79C6&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution activity"/>
+
+</div>
+
+---
+
+# 🧪 EXPERIMENT LAB
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                    NOVA EXPERIMENT LAB                    │
+├────────────────────────────────────────────────────────────┤
+│  [01] Android UI / UX                 ONLINE               │
+│  [02] Firebase Architecture           ONLINE               │
+│  [03] API Engineering                 ONLINE               │
+│  [04] Automation                      ONLINE               │
+│  [05] Anime / 3D Visual Systems       EXPERIMENTAL        │
+│  [06] AI Developer Workflows          EXPERIMENTAL        │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🧿 ANIME AESTHETIC PACK
+
+<div align="center">
+
+**Themes**
+
+`🌌 Cyberpunk` `⚔️ Shonen` `🌙 Dark Fantasy` `🤖 Mecha` `🔥 Action` `🌸 Slice of Life`
+
+<br/><br/>
+
+**Visual Style**
+
+`Neon` `Glassmorphism` `Holographic HUD` `3D Cards` `Particle Effects` `Dark UI`
+
+</div>
+
+---
+
+# 🛰️ CONNECT
+
+<div align="center">
+
+<a href="https://github.com/ShivendraNova">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:090014,30:711c73,60:302060,100:05010d"/>
+
+### 🌸 `BUILD • DEBUG • EVOLVE • SHIP`
+
+**Final Form is never finished.**
+
+<sub>Anime-inspired developer profile • ShivendraNova</sub>
+
+</div>
